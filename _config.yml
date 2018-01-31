@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Salomón Wollenstein"
 title_separator          : "-"
 name                     : &name "Salomón Wollenstein"
-description              : &description "Ph.D. Candidate at Boston University"
+description              : &description "Systems Engineering Ph.D. Candidate at Boston University"
 url                      : https://salomonw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -56,6 +56,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+instagram:
+  username               : &instagram
 facebook:
   username               :
   app_id                 :
@@ -80,12 +82,12 @@ analytics:
 author:
   name             : "Salomón Wollenstein"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Boston University"
+  bio              : "Systems Engineering Ph.D. Candidate at Boston University"
   location         : "Boston, MA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  email            : "salomow@bu.edu"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -95,10 +97,10 @@ author:
   github           : "salomonw"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/salomonwb/"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/salom%C3%B3n-wollenstein-betech-83027088/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -249,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
