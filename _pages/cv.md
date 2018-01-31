@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Systems Engineering, Boston University, 2022 (expected)
+Courses 2017: Probability with Statistical Applications (EK 500), Optimization Theory and Methods (SE 675), Dynamic
+Systems Theory (SE 501).
+Expected 2018: Advanced Stochastic Modeling and Simulation (ME 714), Advanced Optimization Theory and Methods
+(SE 724), Dynamic Programming and Stochastic Control (EC 710).
+* B.S. in Industrial and Systems Engineering, Tecnológico de Monterrey, 2015
 
 Work experience
 ======
