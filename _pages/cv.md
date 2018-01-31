@@ -12,15 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Systems Engineering, Boston University, 2022 (expected)
-  *Courses 2017: Probability with Statistical Applications (EK 500), Optimization Theory and Methods (SE 675), Dynamic
+  * Courses 2017: Probability with Statistical Applications (EK 500), Optimization Theory and Methods (SE 675), Dynamic
 Systems Theory (SE 501).
-  *Expected 2018: Advanced Stochastic Modeling and Simulation (ME 714), Advanced Optimization Theory and Methods
+  * Expected 2018: Advanced Stochastic Modeling and Simulation (ME 714), Advanced Optimization Theory and Methods
 (SE 724), Dynamic Programming and Stochastic Control (EC 710).
 
 * B.S. in Industrial and Systems Engineering, Tecnológico de Monterrey, 2015
-
-  *GPA: 94/100 Highest GPA of graduating class of 2015 in Industrial Engineering.
-  *Relevant courses: Optimization models, Discrete Event Simulation, Decision-Making Models, Differential Equations,
+  * GPA: 94/100 Highest GPA of graduating class of 2015 in Industrial Engineering.
+  * Relevant courses: Optimization models, Discrete Event Simulation, Decision-Making Models, Differential Equations,
 Design and Analysis of Experiments, Statistical Engineering, Inventory Management, Design and Improvement of
 Logistic Systems.
 
