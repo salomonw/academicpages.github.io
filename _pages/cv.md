@@ -9,10 +9,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Systems Engineering, Boston University, 2022 (expected)
-  * Courses 2017: Probability with Statistical Applications (EK 500), Optimization Theory and Methods (SE 675), Dynamic
-Systems Theory (SE 501).
-  * Expected 2018: Advanced Stochastic Modeling and Simulation (ME 714), Advanced Optimization Theory and Methods
-(SE 724), Dynamic Programming and Stochastic Control (EC 710).
+  * Courses: EK500, SE675, SE501, SE714, SE724, EC710.
 
 * B.S. in Industrial and Systems Engineering, Tecnológico de Monterrey, 2015
   * GPA: 94/100 Highest GPA of graduating class of 2015 in Industrial Engineering.
@@ -28,10 +25,11 @@ Research experience
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Multi-Intersection Traffic Light Control and Optimization
+  * Boston University
+  * Designing a control strategy for a network of traffic lights and intersections to optimize delays and congestion
+using Perturbation Analysis. The simulation is made in Vissim and Matlab.
+  * Supervisor: Prof. Christos G. Cassandras
 
 * Fall 2015: Research Assistant
   * Github University
