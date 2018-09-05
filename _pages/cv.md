@@ -9,7 +9,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Systems Engineering, Boston University, 2022 (expected)
-  * Courses: EK500, SE675, SE501, SE714, SE724, EC710.
+  * Courses: [EK500](https://www.bu.edu/academics/eng/courses/eng-ek-500/), [SE534](https://www.bu.edu/academics/eng/courses/eng-se-524/), SE501, SE714, SE724, EC710.
 
 * B.S. in Industrial and Systems Engineering, Tecnológico de Monterrey, 2015
   * GPA: 94/100 Highest GPA of graduating class of 2015 in Industrial Engineering.
